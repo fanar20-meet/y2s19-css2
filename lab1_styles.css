@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-    font-size: 42pt;
+    font-size: 42px;
     font-family: sans-serif;
     text-align: center;
 }
@@ -16,3 +16,17 @@ p {
 a {
     color:red;
 }
+
+a:hover {
+    background-color:green;}
+
+
+#important_paragraph:hover {
+                            background-color: yellow; 
+                            font-size :40px; 
+                        }
+
+.less_important_paragraphs:hover {
+                            color: blue;
+}
+

@@ -18,11 +18,12 @@ p {
     width: 60%;
 }
 
-a {
+a{
     color:red;
     background-color: pink;
-    opacity: .5;
-}
+    opacity: .5;}
+
+ 
 
 span {
 	background-color: yellow;
@@ -48,3 +49,4 @@ div {
     opacity: .7;
     	
 }
+
